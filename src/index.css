@@ -1,0 +1,25 @@
+body {
+    background-color: #dacaa0;
+    font-family: 'Lobster', cursive;
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: #3a2e1f;
+}
+
+p {
+    text-align: center;
+    font-size: 22px;
+    color: #888888;
+}
+
+.img-container {
+    text-align: center;
+    /*width: 400px;*/
+}
+
+img {
+    width: 400px;
+}
